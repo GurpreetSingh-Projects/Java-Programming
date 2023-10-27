@@ -35,4 +35,3 @@ class BinarySearch {
 				"Element is present at index " + result);
 	}
 }
-/* This code is contributed by Rajat Mishra */
